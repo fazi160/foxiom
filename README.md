@@ -45,7 +45,7 @@ The project is structured as follows:
 ### 1. Create Virtual Environment
 
 ```
-    py -m venv venv
+    python -m venv venv
 ```
 
 ### 2. Activate Virtual Environment
